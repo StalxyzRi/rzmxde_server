@@ -29,6 +29,76 @@
             "key": "RZMXD-14X3-F2DV-7LB4",
             "type": "normal",
             "created_at": "2025-11-12 02:17:31"
+        },
+        {
+            "key": "RZMXD-DEVR-AG77-43YX-QWP0\u03a9",
+            "role": "developer",
+            "type": "devr",
+            "created_at": "2025-11-12 05:39:52",
+            "expires_at": "2026-02-10 05:39:52"
+        },
+        {
+            "key": "RZMXD-DEVR-E3AN-31DG-PSGT\u03a9",
+            "role": "developer",
+            "type": "devr",
+            "created_at": "2025-11-12 05:39:52",
+            "expires_at": "2026-02-10 05:39:52"
+        },
+        {
+            "key": "RZMXD-DEVR-4R4C-XDD7-JYOB\u03a9",
+            "role": "developer",
+            "type": "devr",
+            "created_at": "2025-11-12 05:39:52",
+            "expires_at": "2026-02-10 05:39:52"
+        },
+        {
+            "key": "RZMXD-DEVR-3QQE-3Y6C-Y30D\u03a9",
+            "role": "developer",
+            "type": "devr",
+            "created_at": "2025-11-12 05:39:52",
+            "expires_at": "2026-02-10 05:39:52"
+        },
+        {
+            "key": "RZMXD-DEVR-W4MI-6C7E-6L70\u03a9",
+            "role": "developer",
+            "type": "devr",
+            "created_at": "2025-11-12 05:39:52",
+            "expires_at": "2026-02-10 05:39:52"
+        },
+        {
+            "key": "RZMXD-DEVR-OGRF-G6M1-1B5L\u03a9",
+            "role": "developer",
+            "type": "devr",
+            "created_at": "2025-11-12 05:39:52",
+            "expires_at": "2026-02-10 05:39:52"
+        },
+        {
+            "key": "RZMXD-DEVR-RDFB-2YD0-PL51\u03a9",
+            "role": "developer",
+            "type": "devr",
+            "created_at": "2025-11-12 05:39:52",
+            "expires_at": "2026-02-10 05:39:52"
+        },
+        {
+            "key": "RZMXD-DEVR-9D51-286E-8WX9\u03a9",
+            "role": "developer",
+            "type": "devr",
+            "created_at": "2025-11-12 05:39:52",
+            "expires_at": "2026-02-10 05:39:52"
+        },
+        {
+            "key": "RZMXD-DEVR-R25A-4E0S-ATGX\u03a9",
+            "role": "developer",
+            "type": "devr",
+            "created_at": "2025-11-12 05:39:52",
+            "expires_at": "2026-02-10 05:39:52"
+        },
+        {
+            "key": "RZMXD-DEVR-A5KY-SUPJ-51GZ\u03a9",
+            "role": "developer",
+            "type": "devr",
+            "created_at": "2025-11-12 05:39:52",
+            "expires_at": "2026-02-10 05:39:52"
         }
     ]
 }
