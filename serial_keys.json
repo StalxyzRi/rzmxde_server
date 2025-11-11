@@ -99,6 +99,76 @@
             "type": "devr",
             "created_at": "2025-11-12 05:39:52",
             "expires_at": "2026-02-10 05:39:52"
+        },
+        {
+            "key": "RZMXD-BUYR-EITN-AIEK-2XC9",
+            "role": "buyer",
+            "type": "buyr",
+            "created_at": "2025-11-12 05:40:02",
+            "expires_at": "2025-12-12 05:40:02"
+        },
+        {
+            "key": "RZMXD-BUYR-OME8-6JSB-IP4F",
+            "role": "buyer",
+            "type": "buyr",
+            "created_at": "2025-11-12 05:40:02",
+            "expires_at": "2025-12-12 05:40:02"
+        },
+        {
+            "key": "RZMXD-BUYR-0PEH-PI19-W47D",
+            "role": "buyer",
+            "type": "buyr",
+            "created_at": "2025-11-12 05:40:02",
+            "expires_at": "2025-12-12 05:40:02"
+        },
+        {
+            "key": "RZMXD-BUYR-1KC3-Q89L-4GJ2",
+            "role": "buyer",
+            "type": "buyr",
+            "created_at": "2025-11-12 05:40:02",
+            "expires_at": "2025-12-12 05:40:02"
+        },
+        {
+            "key": "RZMXD-BUYR-DRJT-8CGZ-0CMV",
+            "role": "buyer",
+            "type": "buyr",
+            "created_at": "2025-11-12 05:40:02",
+            "expires_at": "2025-12-12 05:40:02"
+        },
+        {
+            "key": "RZMXD-BUYR-977J-JC1N-45CA",
+            "role": "buyer",
+            "type": "buyr",
+            "created_at": "2025-11-12 05:40:02",
+            "expires_at": "2025-12-12 05:40:02"
+        },
+        {
+            "key": "RZMXD-BUYR-Y1G4-SOHC-V3CL",
+            "role": "buyer",
+            "type": "buyr",
+            "created_at": "2025-11-12 05:40:02",
+            "expires_at": "2025-12-12 05:40:02"
+        },
+        {
+            "key": "RZMXD-BUYR-9Q45-NS54-5PR3",
+            "role": "buyer",
+            "type": "buyr",
+            "created_at": "2025-11-12 05:40:02",
+            "expires_at": "2025-12-12 05:40:02"
+        },
+        {
+            "key": "RZMXD-BUYR-IQHQ-6ZJC-WYGA",
+            "role": "buyer",
+            "type": "buyr",
+            "created_at": "2025-11-12 05:40:02",
+            "expires_at": "2025-12-12 05:40:02"
+        },
+        {
+            "key": "RZMXD-BUYR-5WO6-5JFN-PEG2",
+            "role": "buyer",
+            "type": "buyr",
+            "created_at": "2025-11-12 05:40:02",
+            "expires_at": "2025-12-12 05:40:02"
         }
     ]
 }
